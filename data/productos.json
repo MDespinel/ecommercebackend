@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "title": "Zapatillas Deportivas",
+    "description": "Zapatillas deportivas de alta calidad",
+    "code": "ZAP123",
+    "price": 149000,
+    "status": true,
+    "stock": 100,
+    "category": "Calzado",
+    "thumbnails": [
+      "/images/zapatillas1.jpg",
+      "/images/zapatillas2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Camiseta de Algodón",
+    "description": "Camiseta de algodón suave y cómoda",
+    "code": "CAM456",
+    "price": 19999,
+    "status": true,
+    "stock": 200,
+    "category": "Ropa",
+    "thumbnails": [
+      "/images/camiseta1.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Mochila Escolar",
+    "description": "Mochila escolar con múltiples compartimentos",
+    "code": "MOC789",
+    "price": 34999,
+    "status": true,
+    "stock": 50,
+    "category": "Accesorios",
+    "thumbnails": [
+      "/images/mochila1.jpg",
+      "/images/mochila2.jpg"
+    ]
+  }
+]
