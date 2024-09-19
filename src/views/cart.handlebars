@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carrito</title>
+    <link rel="stylesheet" href="/public/styles.css">
+</head>
+<body>
+    <h1>Tu carrito</h1>
+    <ul>
+        {{#each cart.products}}
+        <li>{{this.product.title}} - Cantidad: {{this.quantity}}</li>
+        {{/each}}
+    </ul>
+</body>
+</html>
